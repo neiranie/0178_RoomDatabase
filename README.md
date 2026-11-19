@@ -1,7 +1,7 @@
 ## Screenshot Aplikasi
 <p>
-<img width="220" alt="Home kosong" src="https://github.com/user-attachments/assets/0c3b08b4-086a-4087-91a3-cd7a4b8aed1e" />
-<img width="220" alt="Form kosong" src="https://github.com/user-attachments/assets/1488dfcd-54e3-4176-8984-dddfe8df210e" />
-<img width="220" alt="Form terisi" src="https://github.com/user-attachments/assets/194e6246-6965-4767-b70d-362b8e5acb64" />
-<img width="220" alt="Home berisi data" src="https://github.com/user-attachments/assets/850cfd5d-b697-41c4-9e15-29bc23f15e84" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/fd6372ee-03cd-415f-a7de-780bc7be0416" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/c1cbec8a-6f58-42dd-b69f-6c848b2099e8" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/5372bc2f-3753-4972-957f-cc59c81f22f6" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a2ee36ae-444a-4f9b-ab22-5d55b402cbde" />
 </p>
