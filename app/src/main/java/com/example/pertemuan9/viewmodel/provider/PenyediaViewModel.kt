@@ -1,4 +1,4 @@
-package com.example.pertemuan9.viewmodel
+package com.example.pertemuan9.viewmodel.provider
 
 import android.app.Application
 import androidx.lifecycle.ViewModelProvider
@@ -12,22 +12,22 @@ object PenyediaViewModel {
     val Factory = viewModelFactory {
 
         initializer {
-            HomeViewModel(aplikasiSiswa().container.repositoriSiswa)
+            _root_ide_package_.com.example.pertemuan9.viewmodel.HomeViewModel(aplikasiSiswa().container.repositoriSiswa)
         }
 
         initializer {
-            EntryViewModel(aplikasiSiswa().container.repositoriSiswa)
+            _root_ide_package_.com.example.pertemuan9.viewmodel.EntryViewModel(aplikasiSiswa().container.repositoriSiswa)
         }
 
         initializer {
-            DetailViewModel(
+            _root_ide_package_.com.example.pertemuan9.viewmodel.DetailViewModel(
                 this.createSavedStateHandle(),
                 aplikasiSiswa().container.repositoriSiswa
             )
         }
 
         initializer {
-            EditViewModel(
+            _root_ide_package_.com.example.pertemuan9.viewmodel.EditViewModel(
                 this.createSavedStateHandle(),
                 aplikasiSiswa().container.repositoriSiswa
             )

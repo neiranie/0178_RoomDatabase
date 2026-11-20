@@ -35,11 +35,9 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.pertemuan9.R
 import com.example.pertemuan9.room.Siswa
-import com.example.pertemuan9.uicontroller.DestinasiHome
-import com.example.pertemuan9.uicontroller.DestinasiNavigasi
-import com.example.pertemuan9.uicontroller.SiswaTopAppBar
+import com.example.pertemuan9.view.route.DestinasiHome
 import com.example.pertemuan9.viewmodel.HomeViewModel
-import com.example.pertemuan9.viewmodel.PenyediaViewModel
+import com.example.pertemuan9.viewmodel.provider.PenyediaViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

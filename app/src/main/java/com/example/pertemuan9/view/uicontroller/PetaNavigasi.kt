@@ -1,4 +1,4 @@
-package com.example.pertemuan9.uicontroller
+package com.example.pertemuan9.view.uicontroller
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
@@ -12,6 +12,10 @@ import com.example.pertemuan9.view.DetailSiswaScreen
 import com.example.pertemuan9.view.EditSiswaScreen
 import com.example.pertemuan9.view.EntrySiswaScreen
 import com.example.pertemuan9.view.HomeScreen
+import com.example.pertemuan9.view.route.DestinasiDetailSiswa
+import com.example.pertemuan9.view.route.DestinasiEditSiswa
+import com.example.pertemuan9.view.route.DestinasiEntry
+import com.example.pertemuan9.view.route.DestinasiHome
 
 @Composable
 fun SiswaApp(navController: NavHostController= rememberNavController()){

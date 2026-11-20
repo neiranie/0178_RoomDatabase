@@ -11,10 +11,9 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.pertemuan9.uicontroller.DestinasiEditSiswa
-import com.example.pertemuan9.uicontroller.SiswaTopAppBar
+import com.example.pertemuan9.view.route.DestinasiEditSiswa
 import com.example.pertemuan9.viewmodel.EditViewModel
-import com.example.pertemuan9.viewmodel.PenyediaViewModel
+import com.example.pertemuan9.viewmodel.provider.PenyediaViewModel
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
